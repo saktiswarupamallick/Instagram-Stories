@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Instagram Stories</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app">
+        <div class="app-header">
+            <h1 class="app-title">Instagram Stories</h1>
+            <div class="app-subtitle">Tap a story to view</div>
+        </div>
+
+        <div class="stories-list-container">
+            <div class="stories-list" id="storiesList">
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="welcome-message">
+                <h2>Your Stories</h2>
+                <p>Tap on any story to view it</p>
+            </div>
+        </div>
+        <div class="story-viewer" id="storyViewer">
+            <div class="story-header">
+                <div class="story-progress-container">
+                    <div class="story-progress" id="storyProgress"></div>
+                </div>
+                <div class="story-controls">
+                    <div class="story-info-header">
+                        <span class="story-user">@user{currentStoryIndex}</span>
+                    </div>
+                    <button class="close-btn" id="closeBtn" title="Close story">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+
+            <div class="story-content" id="storyContent">
+                <div class="story-navigation">
+                    <div class="nav-zone left-zone" id="leftZone"></div>
+                    <div class="nav-zone right-zone" id="rightZone"></div>
+                </div>
+                
+                <div class="story-image-container">
+                    <img class="story-image" id="storyImage" alt="Story">
+                    <div class="loading-spinner" id="loadingSpinner">
+                        <div class="spinner"></div>
+                    </div>
+                </div>
+
+                <div class="story-info">
+                    <div class="story-counter">
+                        <span id="currentStory">1</span> / <span id="totalStories">1</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,134 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "image": "https://picsum.photos/400/800?random=1",
+      "user": "john_doe"
+    },
+    {
+      "id": 2,
+      "image": "https://picsum.photos/400/800?random=2",
+      "user": "john_doe"
+    },
+    {
+      "id": 3,
+      "image": "https://picsum.photos/400/800?random=3",
+      "user": "john_doe"
+    },
+    {
+      "id": 4,
+      "image": "https://picsum.photos/400/800?random=4",
+      "user": "john_doe"
+    },
+    {
+      "id": 5,
+      "image": "https://picsum.photos/400/800?random=5",
+      "user": "sarah_wilson"
+    },
+    {
+      "id": 6,
+      "image": "https://picsum.photos/400/800?random=6",
+      "user": "sarah_wilson"
+    },
+    {
+      "id": 7,
+      "image": "https://picsum.photos/400/800?random=7",
+      "user": "sarah_wilson"
+    },
+    {
+      "id": 8,
+      "image": "https://picsum.photos/400/800?random=8",
+      "user": "mike_chen"
+    },
+    {
+      "id": 9,
+      "image": "https://picsum.photos/400/800?random=9",
+      "user": "mike_chen"
+    },
+    {
+      "id": 10,
+      "image": "https://picsum.photos/400/800?random=10",
+      "user": "mike_chen"
+    },
+    {
+      "id": 11,
+      "image": "https://picsum.photos/400/800?random=11",
+      "user": "emma_garcia"
+    },
+    {
+      "id": 12,
+      "image": "https://picsum.photos/400/800?random=12",
+      "user": "emma_garcia"
+    },
+    {
+      "id": 13,
+      "image": "https://picsum.photos/400/800?random=13",
+      "user": "alex_taylor"
+    },
+    {
+      "id": 14,
+      "image": "https://picsum.photos/400/800?random=14",
+      "user": "alex_taylor"
+    },
+    {
+      "id": 15,
+      "image": "https://picsum.photos/400/800?random=15",
+      "user": "alex_taylor"
+    },
+    {
+      "id": 16,
+      "image": "https://picsum.photos/400/800?random=16",
+      "user": "alex_taylor"
+    },
+    {
+      "id": 17,
+      "image": "https://picsum.photos/400/800?random=17",
+      "user": "lisa_brown"
+    },
+    {
+      "id": 18,
+      "image": "https://picsum.photos/400/800?random=18",
+      "user": "lisa_brown"
+    },
+    {
+      "id": 19,
+      "image": "https://picsum.photos/400/800?random=19",
+      "user": "david_kim"
+    },
+    {
+      "id": 20,
+      "image": "https://picsum.photos/400/800?random=20",
+      "user": "david_kim"
+    },
+    {
+      "id": 21,
+      "image": "https://picsum.photos/400/800?random=21",
+      "user": "david_kim"
+    },
+    {
+      "id": 22,
+      "image": "https://picsum.photos/400/800?random=22",
+      "user": "maya_patel"
+    },
+    {
+      "id": 23,
+      "image": "https://picsum.photos/400/800?random=23",
+      "user": "maya_patel"
+    },
+    {
+      "id": 24,
+      "image": "https://picsum.photos/400/800?random=24",
+      "user": "maya_patel"
+    },
+    {
+      "id": 25,
+      "image": "https://picsum.photos/400/800?random=25",
+      "user": "maya_patel"
+    },
+    {
+      "id": 26,
+      "image": "https://picsum.photos/400/800?random=26",
+      "user": "maya_patel"
+    }
+  ]
+}
